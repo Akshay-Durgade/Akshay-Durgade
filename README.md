@@ -46,7 +46,7 @@ Created a complete IaC-based infrastructure for hosting static websites on **S3 
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akshaydurgade)  
-- 🌐 [Portfolio Website](https://akshaydurgade.github.io/akshay-durgade-portfolio)
+- 🌐 [Portfolio Website](https://akshay-durgade.github.io/akshay-durgade-portfolio/)
 - 📧 akshaydurgade1604@gmail.com  
 
 ---
